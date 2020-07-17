@@ -1,0 +1,71 @@
+{
+    "metaDataVersion": "1.0.0",
+    "category": "com.microchip.ide.project",
+    "content": {
+        "metaDataVersion": "1.1.0",
+        "name": "com.microchip.mcu8.mplabx.project.pic16f15245-i2c-slave-ph-sensor",
+        "version": "1.0.0",
+        "displayName": "I2C Slave Mode pH Sensing using PIC16F15245",
+        "projectName": "pic16f15245-i2c-slave-ph-sensor",
+        "shortDescription": "This code example demonstrates the use of MSSP peripheral in I2C slave mode to transmit the pH sensor reading.",
+        "ide": {
+            "name": "MPLABX",
+            "semverRange": ">=5.40.0"
+        },
+        "compiler": [
+			{
+				"name": "XC8",
+				"semverRange": "^2.20.0"
+			}
+		],
+        "dfp": {
+            "name": "PIC16F-DEV_DFP",
+            "semverRange": "^0.1.25"
+        },
+        "configurator": {
+            "name": "MCC",
+            "semverRange": ">=3.95.0"
+        },
+        "device": {
+            "metaDataVersion": "1.0.0",
+            "category": "com.microchip.portal.contentRef",
+            "content": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.device",
+                "name": "PIC16F15245",
+                "versionRange": "*"
+            }
+        },
+        "author": "Microchip",
+        "subcategories": [
+            "MCC",
+            [
+               "Peripherals", "MSSP"
+            ],
+            [
+               "Peripherals", "ADC"
+            ],
+            [
+               "Peripherals", "EUSART"
+            ]
+        ],
+        "peripherals": [
+            "MSSP","ADC","EUSART"
+        ],
+        "keywords": [
+            "MCC",
+            "I2C"
+        ],
+		"additionalData": {
+			"longDescription": {
+				"metaDataVersion": "1.0.0",
+				"category": "com.microchip.portal.fileRef",
+				"content": {
+					"metaDataVersion": "1.0.0",
+					"fileName": "./readme.md",
+					"mimeType": "text/markdown"
+				}
+			}
+		}
+	}
+}
