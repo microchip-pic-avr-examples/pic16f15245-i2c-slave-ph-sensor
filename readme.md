@@ -96,7 +96,7 @@ The 'pic16f15245-i2c-slave-ph-sensor' code example highlights the use of the PIC
 
 ## Operation
 
-The code example is configured such that the pH value (in degrees C) is transmitted over the EUSART to the PC terminal program for viewing. Figure 12 shows the default main() loop, with the 'printf' statement actively transmitting the data to the PC.
+The code example is configured such that the pH value is transmitted over the EUSART to the PC terminal program for viewing. Figure 12 shows the default main() loop, with the 'printf' statement actively transmitting the data to the PC.
 
 ##### Figure 12: Main() Default Configuration
 ![Default Main](images/Main1.png)
