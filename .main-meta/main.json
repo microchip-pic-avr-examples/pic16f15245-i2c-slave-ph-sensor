@@ -53,8 +53,11 @@
             "MSSP","ADC","EUSART"
         ],
         "keywords": [
-            "MCC",
-            "I2C"
+            "Serial Communications",
+            "Sensors",
+			"Sensor",
+			"Intelligent Analog",
+			"Core Independent"
         ],
 		"additionalData": {
 			"longDescription": {
