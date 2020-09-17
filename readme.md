@@ -23,7 +23,7 @@ The 'pic16f15245-i2c-slave-ph-sensor' code example highlights the use of the PIC
 ## Hardware Used
 
 - [PIC16F15245](https://www.microchip.com/wwwproducts/en/PIC16F15245) 20-Lead PDIP Micrcontroller
-- Curiosity Low Pin Count (LPC) Development Board [(DM164137)](https://www.microchip.com/DevelopmentTools/ProductDetails/DM164137)
+- Curiosity Low Pin Count (LPC) Development Board - Rev4 [(DM164137)](https://www.microchip.com/DevelopmentTools/ProductDetails/DM164137)
 - Atlas Scientific [Gravity Analog pH Sensor/Meter](https://www.atlas-scientific.com/product_pages/gravity/gravity_ph.html)
 - Atlas Scientific [Consumer Grade pH Probe](https://www.atlas-scientific.com/product_pages/probes/c-ph-probe.html)
 - Atlas Scientific [pH 4.0 Calibration Fluid](https://www.atlas-scientific.com/product_pages/chemicals/ph4.html)
