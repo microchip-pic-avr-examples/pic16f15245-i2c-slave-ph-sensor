@@ -36,7 +36,7 @@ The 'pic16f15245-i2c-slave-ph-sensor' code example highlights the use of the PIC
 
 1. Remove R49, which is located on the bottom of the Curiosity LPC board as shown in Figure 1.
   ##### Figure 1: R49
-  ![R49](images/R49Remove.jpg)
+  <img src=images/R49Remove.png width=50%>
 
 2. Place the PIC16F15245 micrcontroller into the 20-pin socket of the Curiosity Low Pin Count (LPC) Development Board as shown in Figure 2.
 
