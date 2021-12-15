@@ -19,7 +19,7 @@
 			}
 		],
         "dfp": {
-            "name": "Microchip PIC16F1xxxx Series Device Suppor",
+            "name": "Microchip PIC16F1xxxx Series Device Support",
             "semverRange": "^1.8.149"
         },
         "configurator": {
